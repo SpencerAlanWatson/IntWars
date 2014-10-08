@@ -127,3 +127,11 @@ win/NetBeans/IntWars/nbproject/project.xml
 StartGame.bat
 Debug.bat
 log.txt
+
+*.userprefs
+
+*.sln
+
+*.cproj
+
+StartClient.sh
